@@ -1,0 +1,9 @@
+
+	第一步：adb shell am broadcast -a "com.tri.test.OPEN_AUDIO"
+
+
+	第二步：am start -n com.digipom.easyvoicerecorder.pro/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity
+
+
+	录音文件存放路径：
+
